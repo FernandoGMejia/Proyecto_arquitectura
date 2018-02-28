@@ -1,0 +1,8 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "bot para telegram",
+  "main": "bot.js",
+  "author": "Fercho",
+  "license": "ISC"
+}
